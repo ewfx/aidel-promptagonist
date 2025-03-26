@@ -164,7 +164,7 @@ Web Scraping Limitations: Navigating restricted or protected websites for data e
 - 🔹 Backend: Flask, python/ LLM llama / 
 - 🔹 Database: Neo4j
 
-**Deployment** : https://quickstart-app-1050188241794.us-west2.run.app/
+**Deployment** : https://quickstart-app3-1050188241794.us-west2.run.app/landing 
 
 ## Conclusion
 This structured approach enables comprehensive **credit risk assessment**, effective **anomaly detection**, and robust **financial risk mitigation**. It provides transparency, accuracy, and insightful analysis for financial institutions and regulatory bodies.
