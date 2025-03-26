@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Aegis - An Intelligent Agentic Risk Analyst
 ![image](https://github.com/user-attachments/assets/4f7f1de2-ee7e-43a1-8ebd-1d050974ea33)
 
 
