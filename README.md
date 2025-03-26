@@ -2,7 +2,6 @@
 ![image](https://github.com/user-attachments/assets/4f7f1de2-ee7e-43a1-8ebd-1d050974ea33)
 
 
-![image](https://github.com/user-attachments/assets/107735cd-b971-4b90-bade-67651ec67970)
 
 
 
@@ -15,6 +14,8 @@
 - [Tech Stack](#tech-stack)
 - [Team](#team)
 
+
+![image](https://github.com/user-attachments/assets/107735cd-b971-4b90-bade-67651ec67970)
 ---
 ## 🎥 Demo
 🔗 [Live Demo](#)  - https://quickstart-app3-1050188241794.us-west2.run.app/landing  
